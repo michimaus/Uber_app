@@ -4,10 +4,13 @@
                   __--__ Duican Mihnea-Ionut 314CA __--__
 
 
-    First of all, I had to read the input data and to add in the hash_table
+    
+    
+First of all, I had to read the input data and to add in the hash_table
 the names for the streets, in order to store them in a proper way(making 
 eficient queries when looking for a specific street).
-	After this I built the graph using the std::vector and the skip_list(thought 
+
+After this I built the graph using the std::vector and the skip_list(thought 
 would be helpful for the future tasks).
 NOTE: I modified the skiplist from "Tema 1 SD" quite a bit, as now I am using 
 level pointers in stead of full structured nodes to be placed on a level.
